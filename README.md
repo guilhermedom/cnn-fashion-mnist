@@ -16,7 +16,7 @@ CNNs are the number 1 option for image classification since CNN models started d
 
 We show how a simple CNN with 3 convolutions and 4 fully connected layers can achieve 91% in accuracy, even without preprocessing the Fashion MNIST images. The model is built and evaluated using only TensorFlow and Scikit-learn APIs. We also visually evaluate the results of our model with an image grid having actual and predicted labels for a couple of random images:
 
-![fashion_mnist_classified](https://user-images.githubusercontent.com/33037020/196309279-12a3e00a-a8e5-4c1f-82c5-2d32e283f7bf.PNG)
+![fashion_mnist_classified2](https://user-images.githubusercontent.com/33037020/196318131-556b10ec-6262-47fa-89ed-675cf2d7cb0f.PNG)
 
 Besides that, we use a [confusion matrix] to support our analyses, where the main diagonal represents our model's correct predictions.
 
